@@ -25,24 +25,24 @@ Ensure you have the following installed on your system:
 
 1. **Clone the repository**:
 
-   \`\`\`bash
+   ```bash
    git clone https://github.com/ecinteza/OS-2023-Terminal.git
    cd OS-2023-Terminal
-   \`\`\`
+   ```
 
 2. **Compile the source code**:
 
-   \`\`\`bash
+   ```bash
    gcc -o terminal terminal.c
-   \`\`\`
+   ```
 
 ### Running the Terminal
 
 To start the terminal emulator, run:
 
-\`\`\`bash
+```bash
 ./terminal
-\`\`\`
+```
 
 - You can then use the terminal as you would a standard shell by typing commands and pressing `Enter`.
 
